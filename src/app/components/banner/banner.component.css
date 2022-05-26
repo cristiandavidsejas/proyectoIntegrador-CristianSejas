@@ -10,13 +10,16 @@
       font-family: 'poppins', sans-serif;  
 
 }
+#banner{
+ height: 100%;
+}
 
-.anima2{
+/*.anima2{
             min-height: 60vh;
             display: flex;
             justify-content: center;
             align-items: center;
-            background-color: #082032;
+            background-image: radial-gradient(circle, #d9cfec, #cac2eb, #b9b5ea, #a5a9e9, #8d9ee9, #7ba4ee, #67aaf0, #50aff1, #5dc2f0, #7bd4ed, #9ee4ec, #c3f2ef);
 }
 
 .wrapper{
@@ -82,4 +85,4 @@ infinite;
 }
 
 
-}
+}*/
