@@ -1,4 +1,4 @@
-package com.portfolio.cds;
+package com.porfolio.cds;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.portfolio.cds;
+package com.porfolio.cds;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
